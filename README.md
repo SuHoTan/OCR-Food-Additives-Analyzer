@@ -1,3 +1,8 @@
+---
+
+
+---
+
 <h1 id="ocr-식품-원재료-분석기">OCR 식품 원재료 분석기</h1>
 <p>식품의 원재료부분을 카메라로 촬영하면 어플 사용자들이 입력한 질병 혹은 알레르기 등을 토대로 건강에 해가 되지 않는 식품인지 판단하여 정보를 제공해주는 안드로이드 어플로 제작된 프로젝트입니다.<br>
 이 프로젝트는 공부 목적의 비상업적 프로젝트입니다.</p>
@@ -9,7 +14,6 @@ This project is a non-commercial project for study purposes.</p>
 <p><a href="https://github.com/DevYJKwon">DevYJKwon</a> : OCR연구, 기능통합</p>
 <p><a href="https://github.com/Sujinkim-625">Sujinkim-625</a> : 데이터 수집, 화면 레이아웃 개발</p>
 <h2 id="개발환경">1. 개발환경</h2>
-<p><img src="md/%EA%B0%9C%EB%B0%9C%ED%99%98%EA%B2%BD.PNG" alt="Alt"></p>
 <blockquote>
 <p>개발언어</p>
 </blockquote>
