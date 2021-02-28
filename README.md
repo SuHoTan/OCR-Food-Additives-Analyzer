@@ -13,8 +13,9 @@
 </blockquote>
 <ul>
 <li>Google vision</li>
-<li>java-string-similarity-2.0.0</li>
-<li>LCS(Longest Common Subsequence)</li>
+<li>java-string-similarity-2.0.0(LCS(Longest Common Subsequence))</li>
+<li>com.yalantis.ucrop</li>
+<li>com.theartofdev.edmodo.cropper</li>
 </ul>
 <h2 id="시스템-구성도--프로세스">2. 시스템 구성도 &amp; 프로세스</h2>
 <p><img src="md/%EC%8B%9C%EC%8A%A4%ED%85%9C%EA%B5%AC%EC%84%B1%EB%8F%84.PNG" alt="Alt"></p>
