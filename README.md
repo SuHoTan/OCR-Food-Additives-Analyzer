@@ -4,9 +4,9 @@
 <p>It is a project made with Android apps that provide information on whether the food is unhealthy based on diseases or allergies entered by application users.<br>
 This project is a non-commercial project for study purposes.</p>
 <h2 id="contributors">Contributors</h2>
-<p><a href="https://github.com/SuHoTan">SuHoTan</a> : 데이터베이스, OCR 연동 및 기능 구현</p>
-<p><a href="https://github.com/LuneRemer">LuneRemer</a> : OCR연구, OCR 후처리 알고리즘 개발</p>
-<p><a href="https://github.com/DevYJKwon">DevYJKwon</a> : OCR연구, 기능통합</p>
+<p><a href="https://github.com/SuHoTan">SuHoTan</a> : 데이터베이스 구축 및 연동, 이미지편집 및 OCR 기능개발</p>
+<p><a href="https://github.com/LuneRemer">LuneRemer</a> : OCR 연구, OCR 후처리 알고리즘 개발</p>
+<p><a href="https://github.com/DevYJKwon">DevYJKwon</a> : OCR 성능 비교, OCR 기능통합</p>
 <p><a href="https://github.com/Sujinkim-625">Sujinkim-625</a> : 데이터 수집, 화면 레이아웃 개발</p>
 <h2 id="개발환경">1. 개발환경</h2>
 <blockquote>
