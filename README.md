@@ -45,6 +45,7 @@
 <img src="md/%EC%84%B8%ED%8C%85.PNG" alt="Alt"></li>
 </ul>
 <h2 id="image-cropper-license">6. Image Cropper License</h2>
+<li>com.yalantis.ucrop</li>
 <p>Copyright 2017, Yalantis</p>
 <p>Licensed under the Apache License, Version 2.0 (the “License”);<br>
 you may not use this file except in compliance with the License.<br>
@@ -54,7 +55,7 @@ You may obtain a copy of the License at</p>
 distributed under the License is distributed on an “AS IS” BASIS,<br>
 WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.<br>
 See the License for the specific language governing permissions and<br>
-limitations under the License.</p>
+limitations under the License.</p><br><br>
 <ul>
 <li>com.theartofdev.edmodo.cropper</li>
 </ul>
