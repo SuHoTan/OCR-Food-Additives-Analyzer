@@ -12,7 +12,7 @@
 <p>라이브러리</p>
 </blockquote>
 <ul>
-<li>Google vision</li>
+<li>Google Cloud vision</li>
 <li>java-string-similarity-2.0.0(LCS(Longest Common Subsequence))</li>
 <li>com.yalantis.ucrop</li>
 <li>com.theartofdev.edmodo.cropper</li>
