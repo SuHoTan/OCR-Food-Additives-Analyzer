@@ -1,8 +1,3 @@
----
-
-
----
-
 <h1 id="ocr-식품-원재료-분석기">OCR 식품 원재료 분석기</h1>
 <p>본 프로젝트는 다양한 가공식품들의 원재료를 분석하여 사용자들이 본인에게 위험하지 않은 식품들을 섭취할 수 있도록 도와주기 위해서 진행되었다. 식품의 원재료부분을 찍으면 사용자들이 앓고 있는 질병 및 알레르기 등을 토대로 먹어도 건강에 해가 되지 않는 식품인지 판단하여 정보를 제공해주는 안드로이드 어플로 제작된 프로젝트이다.</p>
 <p>This project is for letting users know what is healthy food for them based on their own deaseases and allergies. people take a picture of food’s ingredient on surface of food and the application analyze and check if there are some unhealthy ingredient for users and provide their analyzation result to users.</p>
