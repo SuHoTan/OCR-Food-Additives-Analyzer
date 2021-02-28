@@ -1,15 +1,40 @@
+---
+
+
+---
+
 <h1 id="ocr-식품-원재료-분석기">OCR 식품 원재료 분석기</h1>
-<p>본 프로젝트는 다양한 가공식품들의 원재료를 분석하여 사용자들이 본인에게 위험하지 않은 식품들을 섭취할 수 있도록 도와주기 위해서 진행되었다. 식품의 원재료부분을 찍으면 사용자들이 앓고 있는 질병 및 알레르기 등을 토대로 먹어도 건강에 해가 되지 않는 식품인지 판단하여 정보를 제공해주는 안드로이드 어플로 제작된 프로젝트이다.</p>
-<p>This project is for letting users know what is healthy food for them based on their own deaseases and allergies. people take a picture of food’s ingredient on surface of food and the application analyze and check if there are some unhealthy ingredient for users and provide their analyzation result to users.</p>
-<h2 id="contributor">Contributor</h2>
-<p><a href="https://github.com/SuHoTan">SuHoTan</a> : OCR 연구, 데이터베이스 설계 및 구축, 안드로이드 기능구현</p>
+<p>식품의 원재료부분을 카메라로 촬영하면 어플 사용자들이 입력한 질병 혹은 알레르기 등을 토대로 건강에 해가 되지 않는 식품인지 판단하여 정보를 제공해주는 안드로이드 어플로 제작된 프로젝트입니다.<br>
+이 프로젝트는 공부 목적의 비상업적 프로젝트입니다.</p>
+<p>It is a project made with Android apps that provide information on whether the food is unhealthy based on diseases or allergies entered by application users.<br>
+This project is a non-commercial project for study purposes.</p>
+<h2 id="contributors">Contributors</h2>
+<p><a href="https://github.com/SuHoTan">SuHoTan</a> : 데이터베이스, OCR 연동 및 기능 구현</p>
 <p><a href="https://github.com/LuneRemer">LuneRemer</a> : OCR연구, OCR 후처리 알고리즘 개발</p>
 <p><a href="https://github.com/DevYJKwon">DevYJKwon</a> : OCR연구, 기능통합</p>
 <p><a href="https://github.com/Sujinkim-625">Sujinkim-625</a> : 데이터 수집, 화면 레이아웃 개발</p>
 <h2 id="개발환경">1. 개발환경</h2>
 <p><img src="md/%EA%B0%9C%EB%B0%9C%ED%99%98%EA%B2%BD.PNG" alt="Alt"></p>
 <blockquote>
-<p>라이브러리</p>
+<p>개발언어</p>
+</blockquote>
+<ul>
+<li>JAVA 1.8</li>
+</ul>
+<blockquote>
+<p>IDE</p>
+</blockquote>
+<ul>
+<li>Android Studio</li>
+</ul>
+<blockquote>
+<p>Database</p>
+</blockquote>
+<ul>
+<li>SQLite</li>
+</ul>
+<blockquote>
+<p>사용 라이브러리</p>
 </blockquote>
 <ul>
 <li>Google Cloud vision</li>
@@ -45,23 +70,22 @@
 <img src="md/%EC%84%B8%ED%8C%85.PNG" alt="Alt"></li>
 </ul>
 <h2 id="image-cropper-license">6. Image Cropper License</h2>
-<li>com.yalantis.ucrop</li>
-<p>Copyright 2017, Yalantis</p>
-<p>Licensed under the Apache License, Version 2.0 (the “License”);<br>
+<p>Copyright 2017, Yalantis<br>
+Licensed under the Apache License, Version 2.0 (the “License”);<br>
 you may not use this file except in compliance with the License.<br>
-You may obtain a copy of the License at</p>
-<p><a href="http://www.apache.org/licenses/LICENSE-2.0">http://www.apache.org/licenses/LICENSE-2.0</a></p>
-<p>Unless required by applicable law or agreed to in writing, software<br>
+You may obtain a copy of the License at<br>
+<a href="http://www.apache.org/licenses/LICENSE-2.0">http://www.apache.org/licenses/LICENSE-2.0</a><br>
+Unless required by applicable law or agreed to in writing, software<br>
 distributed under the License is distributed on an “AS IS” BASIS,<br>
 WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.<br>
 See the License for the specific language governing permissions and<br>
-limitations under the License.</p><br><br>
+limitations under the License.</p>
 <ul>
-<li>com.theartofdev.edmodo.cropper</li>
+<li>com.theartofdev.edmodo.cropper<br>
+Originally forked from edmodo/cropper.<br>
+Copyright 2016, Arthur Teplitzki, 2013, Edmodo, Inc.<br>
+Licensed under the Apache License, Version 2.0 (the “License”); you may not use this work except in compliance with the License. You may obtain a copy of the License in the LICENSE file, or at:<br>
+<a href="http://www.apache.org/licenses/LICENSE-2.0">http://www.apache.org/licenses/LICENSE-2.0</a><br>
+Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an “AS IS” BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License.</li>
 </ul>
-<p>Originally forked from edmodo/cropper.</p>
-<p>Copyright 2016, Arthur Teplitzki, 2013, Edmodo, Inc.</p>
-<p>Licensed under the Apache License, Version 2.0 (the “License”); you may not use this work except in compliance with the License. You may obtain a copy of the License in the LICENSE file, or at:</p>
-<p><a href="http://www.apache.org/licenses/LICENSE-2.0">http://www.apache.org/licenses/LICENSE-2.0</a></p>
-<p>Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an “AS IS” BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License.</p>
 
